@@ -1,5 +1,5 @@
 {
-  "patrons":{
+  "patrons":[
   {
    "Name" : "test",
    "Tier" : "Tier1"
@@ -15,5 +15,5 @@
 
 
 
-  }
+  ]
 }
