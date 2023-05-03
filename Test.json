@@ -1,19 +1,12 @@
 {
-  "patrons":[
-  {
-   "Name" : "test",
-   "Tier" : "Tier1"
-  },
-
-  { 
-   "Name" : "test",
-   "Tier" : "Tier1"
-  }
-
-
-
-
-
-
+  "patrons": [
+    {
+      "Name": "test",
+      "Tier": "Tier1"
+    },
+    {
+      "Name": "test",
+      "Tier": "Tier1"
+    }
   ]
 }
