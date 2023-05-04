@@ -2,6 +2,7 @@
   "patrons": [
     {
       "Name": "test",
+      "SteamID": "111111111",
       "Tier": "Tier1"
     },
     {
