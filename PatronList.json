@@ -2,13 +2,13 @@
   "patrons": [
     {
       "Name": "Shadow",
-      "SteamID": 76561198137050226,
-      "Tier": 1
+      "SteamID": "76561198137050226",
+      "Tier": "1"
     },
     {
       "Name": "Cheddar",
-      "SteamID": 76561199390499885,
-      "Tier": 1
+      "SteamID": "76561199390499885",
+      "Tier": "1"
     }
   ]
 }
