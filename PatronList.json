@@ -1,9 +1,7 @@
 {
   "patrons": [
     {
-      "Name": "Shadow",
-      "SteamID": "76561198137050226",
-      "Tier": "1"
+      "user":{"name":"shadow", "SteamID":30, "Tier":1}
     },
     {
       "Name": "Cheddar",
