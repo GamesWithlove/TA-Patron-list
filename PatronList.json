@@ -1,12 +1,10 @@
 {
   "patrons": [
     {
-      "user":{"Name":"shadow", "SteamID":30, "Tier":1}
+      "user":{"Name":"Shadow", "SteamID":76561198137050226, "Tier":1, "active" : True}
     },
     {
-      "Name": "Cheddar",
-      "SteamID": "76561199390499885",
-      "Tier": "1"
+      "user":{"Name":"Cheddar", "SteamID":76561199390499885, "Tier":1, "active" : True}
     }
   ]
 }
