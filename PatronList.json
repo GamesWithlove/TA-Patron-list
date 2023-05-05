@@ -1,7 +1,7 @@
 {
   "patrons": [
     {
-      "user":{"name":"shadow", "SteamID":30, "Tier":1}
+      "user":{"Name":"shadow", "SteamID":30, "Tier":1}
     },
     {
       "Name": "Cheddar",
