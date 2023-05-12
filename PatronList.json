@@ -1,16 +1,16 @@
 {
   "patrons": [
     {
-      "user":{"Name":"SINIS7ER", "SteamID":"76561198896377278", "Tier":1, "Active" : True}
+      "user": {"name": "SINIS7ER", "steamID": "76561198896377278", "tier": 1, "active": true}
     },
     {
-      "user":{"Name":"Nitolink Gaming", "SteamID":"76561198118440257", "Tier":1, "Active" : True}
+      "user": {"name": "Nitolink Gaming", "steamID": "76561198118440257", "tier": 1, "active": true}
     },
     {
-      "user":{"Name":"DefoDashy", "SteamID":"76561199200641281", "Tier":1, "Active" : True}
+      "user": {"name": "DefoDashy", "steamID": "76561199200641281", "tier": 1, "active": true}
     },
     {
-      "user":{"Name":"Defected Zephyr", "SteamID":"76561198014774369", "Tier":1, "Active" : True}
+      "user": {"name": "Defected Zephyr", "steamID": "76561198014774369", "tier": 1, "active": true}
     }
   ]
 }
