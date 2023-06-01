@@ -7,7 +7,7 @@
       "user": {"name": "Nitolink Gaming", "steamID": "76561198118440257", "tier": 1, "active": true}
     },
     {
-      "user": {"name": "DefoDashy", "steamID": "76561199200641281", "tier": 1, "active": true}
+      "user": {"name": "DefoDashy", "steamID": "76561199200641281", "tier": 1, "active": false}
     },
     {
       "user": {"name": "Defected Zephyr", "steamID": "76561198014774369", "tier": 1, "active": true}
@@ -23,6 +23,12 @@
     },
     {
       "user": {"name": "Dfz the wolsky", "steamID": "76561199249470877", "tier": 1, "active": true}
+    },
+    {
+      "user": {"name": "Hene Soulest", "steamID": "76561198130743005", "tier": 1, "active": true}
+    },
+    {
+      "user": {"name": "XxAnimal CannibalxX", "steamID": "76561198866398279", "tier": 1, "active": true}
     }
   ]
 }
