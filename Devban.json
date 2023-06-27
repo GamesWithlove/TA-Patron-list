@@ -1,11 +1,11 @@
 {
   "bans": [
     {
-      "user":{"Name":"Shadow", "SteamID":"76561198137050226","Active" : true}
+      "user":{"Name":"Shadow", "SteamID":"76561198137050226","Active" : true,"Reason" : "test"}
     },
     
     {
-      "user":{"Name":"Unselles", "SteamID":"76561198126898608","Active" : false}
+      "user":{"Name":"Unselles", "SteamID":"76561198126898608","Active" : false,"Reason" : "test"}
     }
   ]
 }
