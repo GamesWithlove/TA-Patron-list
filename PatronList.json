@@ -36,6 +36,9 @@
 
     {
       "user": {"name": "DeliveryForU", "steamID": "76561199168584835", "tier": 1, "active": true}
+    },
+    {
+      "user": {"name": "Weizul", "steamID": "76561197988979411", "tier": 1, "active": true}
     }
 
   ]
