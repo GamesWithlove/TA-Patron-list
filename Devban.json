@@ -10,7 +10,11 @@
 
     {
       "user":{"Name":"PolarizDFuzz", "SteamID":"76561198431820412","Active" : true,"Reason" : "Suspeccted of stealing intelectual property models along with another person that goes for the name (BeastBoops)"}
+    },
+    {
+      "user":{"Name":"Darky", "SteamID":"76561198797925995","Active" : true,"Reason" : "test"}
     }
+
 
   ]
 }
