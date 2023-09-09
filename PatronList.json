@@ -51,6 +51,9 @@
     },
     {
       "user": {"name": "Felli", "steamID": "76561198424148961", "tier": 1, "active": true}
+    },
+    {
+      "user": {"name": "BlacER", "steamID": "0", "tier": 1, "active": true}
     }
 
   ]
