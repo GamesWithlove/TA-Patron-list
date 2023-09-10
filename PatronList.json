@@ -54,7 +54,11 @@
     },
     {
       "user": {"name": "BlacER", "steamID": "0", "tier": 1, "active": true}
+    },
+    {
+      "user": {"name": "philosopher115", "steamID": "76561198060778240", "tier": 1, "active": true, "alt": "Brock Reesor"}
     }
+
 
   ]
 }
