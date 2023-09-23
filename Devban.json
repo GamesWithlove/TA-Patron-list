@@ -19,7 +19,11 @@
     },
     {
       "user":{"Name":"Serpy", "SteamID":"76561198499080536","Active" : true,"Reason" : "Toxic behaviour towards a developer"}
+    },
+    {
+      "user":{"Name":"The Rich", "SteamID":"76561198840684021","Active" : true,"Reason" : "Toxic behaviour"}
     }
+    
     
 
 
