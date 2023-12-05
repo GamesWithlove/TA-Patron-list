@@ -96,7 +96,11 @@
     },
     {
       "user": {"name": "Microsoft Word", "steamID": "76561198304448389", "tier": 1, "active": true}
+    },
+    {
+      "user": {"name": "Huzky", "steamID": "76561198852166863", "tier": 1, "active": true,"alt":"Admiral_huzky"}
     }        
+
 
 
 
