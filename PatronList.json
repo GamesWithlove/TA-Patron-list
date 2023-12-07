@@ -99,7 +99,10 @@
     },
     {
       "user": {"name": "Huzky", "steamID": "76561198852166863", "tier": 1, "active": true,"alt":"Admiral_huzky"}
-    }        
+    },
+    {
+      "user": {"name": "xenontheproot", "steamID": "76561199379352871", "tier": 1, "active": true,"alt":"xenon"}
+    }       
 
 
 
