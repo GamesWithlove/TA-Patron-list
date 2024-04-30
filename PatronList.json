@@ -116,9 +116,6 @@
       "user": {"name": "Fluffy Orb", "steamID": "76561198434066636", "tier": 1, "active": true,"alt":"Fluffy Orb"}
     },  
     {
-      "user": {"name": "Spire Creator", "steamID": "0", "tier": 1, "active": true,"alt":"Spire Creator"}
-    },
-    {
       "user": {"name": "rouge the protogen", "steamID": "76561198847234317", "tier": 1, "active": true,"alt":"jackson harris roberts"}
     },
     {
@@ -159,6 +156,9 @@
     },
     {
       "user": {"name": "Shadeux", "steamID": "76561199213779199", "tier": 1, "active": true,"alt":"N/A"}
+    },
+    {
+      "user": {"name": "Spire Creator", "steamID": "76561198226071912", "tier": 1, "active": true,"alt":"Proto Spire}
     }
     
     
