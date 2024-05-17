@@ -162,6 +162,9 @@
     },
     {
       "user": {"name": "Blitz", "steamID": "76561198445164651", "tier": 1, "active": true,"alt":"Blitz_Kitsune"}
+    },
+    {
+      "user": {"name": "Testing", "steamID": "0", "tier": 2, "active": true,"alt":"test"}
     }
     
     
