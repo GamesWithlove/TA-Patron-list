@@ -177,6 +177,9 @@
     },
     {
       "user": {"name": "Carl", "steamID": "76561199101255561", "tier": 1, "active": true,"alt":"Carl"}
+    },
+    {
+      "user": {"name": "EIKuni Zesun", "steamID": "76561199101255561", "tier": 2, "active": true,"alt":"EIKuni Zesun"}
     }
     
     
