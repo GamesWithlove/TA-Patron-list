@@ -21,7 +21,7 @@
       "user":{"Name":"Serpy", "SteamID":"76561198499080536","Active" : true,"Reason" : "Toxic behaviour towards a developer"}
     },
     {
-      "user":{"Name":"kevinharvick4 II", "SteamID":"76561199499428239","false" : false,"Reason" : "Ban appealed"}
+      "user":{"Name":"kevinharvick4 II", "SteamID":"76561199499428239","Active" : false,"Reason" : "Ban appealed"}
     }
     
     
