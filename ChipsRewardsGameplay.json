@@ -1,4 +1,7 @@
 {
+  "_Comment1" : "Data for game based rewards",
+
+  
   "ChipsA": 10,
   "ChipsK": 15,
   "ChipsD": 5,
@@ -6,5 +9,10 @@
   "KDMin": 2,
   "KDMax": 4,
   "FunValMin": 2,
-  "FunValMax": 10
+  "FunValMax": 10,
+
+
+  "_Comment2" : "Data for game based systems like MOTD for example or events",
+  "MOTD":"Welcome to Toaster Arena",
+  "MOTDDesc": ""
 }
