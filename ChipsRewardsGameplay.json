@@ -1,0 +1,10 @@
+{
+  "ChipsA": 10,
+  "ChipsK": 15,
+  "ChipsD": 5,
+  "ChipsS": 20,
+  "KDMin": 2,
+  "KDMax": 4,
+  "FunValMin": 2,
+  "FunValMax": 10
+}
