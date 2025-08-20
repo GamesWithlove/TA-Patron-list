@@ -2,14 +2,14 @@
   "_Comment1" : "Data for game based rewards",
 
   
-  "ChipsA": 15,
-  "ChipsK": 20,
-  "ChipsD": 10,
-  "ChipsS": 25,
-  "KDMin": 3,
-  "KDMax": 5,
+  "ChipsA": 10,
+  "ChipsK": 9,
+  "ChipsD": 8,
+  "ChipsS": 15,
+  "KDMin": 2,
+  "KDMax": 8,
   "FunValMin": 3,
-  "FunValMax": 15,
+  "FunValMax": 8,
 
 
   "_Comment2" : "Data for game based systems like MOTD for example or events",
