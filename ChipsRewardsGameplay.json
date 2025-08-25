@@ -8,6 +8,8 @@
   "ChipsS": 15,
   "KDMin": 2,
   "KDMax": 8,
+  "KDMin_Bad": 1,
+  "KDMax_Bad": 10,
   "FunValMin": 3,
   "FunValMax": 8,
 
