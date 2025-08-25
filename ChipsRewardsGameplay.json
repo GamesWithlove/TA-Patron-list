@@ -8,10 +8,10 @@
   "ChipsS": 15,
   "KDMin": 2,
   "KDMax": 8,
-  "KDMin_Bad": 1,
-  "KDMax_Bad": 10,
-  "FunValMin": 3,
-  "FunValMax": 8,
+  "KDMin_Bad": 2,
+  "KDMax_Bad": 8,
+  "FunValMin": 6,
+  "FunValMax": 6,
 
 
   "_Comment2" : "Data for game based systems like MOTD for example or events",
