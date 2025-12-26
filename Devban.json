@@ -1,7 +1,7 @@
 {
   "bans": [
     {
-      "user":{"Name":"Shadow", "SteamID":"34897293847234", "MachineID":"c91ee7c247b35c7f575a439818058033", "Active" : true,"Reason" : "test"}
+      "user":{"Name":"Shadow", "SteamID":"76561198137050226", "MachineID":"c91ee7c247b35c7f575a439818058033", "Active" : true,"Reason" : "test"}
     },
     
     {
