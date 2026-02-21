@@ -4,7 +4,7 @@
       "user":{"Name":"Shadow", "SteamID":"76561198137050226", "MachineID":"c91ee7c247b35c7f575a439818058033", "Active" : false,"Reason" : "test"}
     },
     {
-      "user":{"Name":"Shadow2", "SteamID":"76561199196593504", "MachineID":"80c0c55fbf8e80a10bb4645b1151490b", "Active" : true,"Reason" : "test"}
+      "user":{"Name":"Shadow2", "SteamID":"76561199196593504", "MachineID":"80c0c55fbf8e80a10bb4645b1151490b", "Active" : false,"Reason" : "test"}
     },  
     
     {
