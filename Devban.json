@@ -45,7 +45,7 @@
       "user":{"Name":"HildaAims", "SteamID":"765611988888812136","MachineID":"75514b625210c65c7d525c81f6b634b6","Active" : false,"Reason" : "Cheating"}
     },
     {
-      "user":{"Name":"Furrazle", "SteamID":"76561198062791671","Active" : true,"Reason" : "Harrasment"}
+      "user":{"Name":"Furrazle", "SteamID":"76561198062791671","Active" : false,"Reason" : "null"}
     }
     
     
