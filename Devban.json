@@ -6,6 +6,12 @@
     {
       "user":{"Name":"Shadow2", "SteamID":"76561199196593504", "MachineID":"80c0c55fbf8e80a10bb4645b1151490b", "Active" : false,"Reason" : "test"}
     },  
+    {
+      "user":{"Name":"Kauhni alt and PC", "SteamID":"76561199727703604","MachineID":"bf2154da375822378f7ca443eecca2e9","Active" : true,"Reason" : "Cheating, Fraudulent behaviour, Ban evasion"}
+    },
+    {
+      "user":{"Name":"Kahuni", "SteamID":"76561198326001347","MachineID":"5dfd86199ec9f9c337a3f2609c8f3434","Active" : true,"Reason" : "Cheating, Fraudulent behaviour"}
+    },
     
     {
       "user":{"Name":"LeafytheProgrammer", "SteamID":"76561198962415143","Active" : true,"Reason" : "Impersonating developers to spread lies"}
@@ -35,9 +41,6 @@
     {
       "user":{"Name":"Kimiko Five-Tails", "SteamID":"76561199379806910","MachineID":"af996af1546c42013e33716c7bee1c6a","Active" : false,"Reason" : "Toxic Behavior towards the player comunity"}
     },
-     {
-      "user":{"Name":"Kahuni", "SteamID":"76561198326001347","MachineID":"5dfd86199ec9f9c337a3f2609c8f3434","Active" : true,"Reason" : "Cheating, Fraudulent behaviour"}
-    },
     {
       "user":{"Name":"xuddley", "SteamID":"76561198287813480","MachineID":"49e61afd98514af2ab3588908d8d74c8","Active" : false,"Reason" : "Cheating"}
     },
@@ -46,11 +49,7 @@
     },
     {
       "user":{"Name":"Furrazle", "SteamID":"76561198062791671","Active" : true,"Reason" : "Development/Community Member Harrasment"}
-    },
-    {
-      "user":{"Name":"Kauhni alt and PC", "SteamID":"76561199727703604","MachineID":"bf2154da375822378f7ca443eecca2e9","Active" : true,"Reason" : "Cheating, Fraudulent behaviour, Ban evasion"}
-    }
-    
+    }   
     
 
   ]
